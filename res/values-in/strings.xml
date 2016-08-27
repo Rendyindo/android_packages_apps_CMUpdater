@@ -58,7 +58,7 @@
   <string name="not_download_success">Pembaruan berhasil diunduh</string>
   <string name="not_download_failure">Pengunduhan pembaruan tidak berhasil</string>
   <string name="not_action_install_update">But ulang dan instal</string>
-  <string name="not_download_install_notice">Pembaruan <xliff:g id="filename">%s</xliff:g> sudah berhasil diunduh. Ketika mengetuk \'But ulang dan pasang\', perangkat akan dimulai ulang dan menginstal pembaruan.\n\nCatatan: Diperlukan Pemulihan yang kompatibel agar pemasangan dapat bekerja secara otomatis.</string>
+  <string name="not_download_install_notice">Pembaruan <xliff:g id="filename">%s</xliff:g> sudah berhasil diunduh. Ketika mengetuk \'But ulang dan pasang\', perangkat akan dimulai ulang dan menginstal pembaruan untuk Infinix Hot 2.\n\nCatatan: Jangan install pembaruan ini pada perangkat lain.</string>
   <!-- MD5 related strings -->
   <string name="md5_verification_failed">Verifikasi MD5 gagal</string>
   <!-- Apply update strings -->
